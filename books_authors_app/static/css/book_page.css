@@ -1,0 +1,18 @@
+* {
+    /* margin: 0;
+    padding: 0;
+    box-sizing: border-box; */
+    /* border: 1px solid pink; */
+  }
+
+.container {
+  margin-top: 100px;
+}
+
+form {
+    display: flex;
+}
+
+.form-control {
+    display: contents;
+}
